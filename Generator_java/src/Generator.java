@@ -54,6 +54,7 @@ public class Generator {
 				str = str.substring(1);
 			}
 
+
 			nazwisko.add(str);
 		}
 		in.close();
