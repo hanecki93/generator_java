@@ -53,7 +53,6 @@ public class Generator {
 			if (!Character.isLetter(str.charAt(0))) {
 				str = str.substring(1);
 			}
-			// System.out.println(str);
 
 			nazwisko.add(str);
 		}
