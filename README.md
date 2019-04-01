@@ -1,4 +1,4 @@
-# generator_java
+# generator java
 
 Aplikacja do generowania losowych danych.
 
